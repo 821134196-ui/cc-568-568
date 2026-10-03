@@ -13,3 +13,9 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 运行时数据与日志
+backend/data/*.db
+backend/data/*.db-*
+backend/logs/
+frontend/dev-server.log
